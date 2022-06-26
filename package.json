@@ -1,0 +1,26 @@
+{
+  "name": "tv-remote",
+  "version": "1.0.0",
+  "description": "Android TV Remote Control app. Supports API calls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxngn/androidtv.git"
+  },
+  "keywords": [
+    "tv"
+  ],
+  "author": "@alxngn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxngn/androidtv/issues"
+  },
+  "homepage": "https://github.com/alxngn/androidtv#readme",
+  "dependencies": {
+    "androidtv-remote": "^1.0.10",
+    "express": "^4.18.1"
+  }
+}
